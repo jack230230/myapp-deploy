@@ -51,7 +51,7 @@ myapp-frontend:
   fullnameOverride: myapp-frontend
   image:
     repository: ghcr.io/jack230230/myapp-frontend
-    tag: main
+    tag: 772d4a7
   imagePullSecrets:
     - name: myapp-docker
   ingress:
